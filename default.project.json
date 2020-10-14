@@ -1,0 +1,19 @@
+{
+  "name": "Studio-Spotify-Roact",
+  "tree": {
+    "$className": "DataModel",
+    "HttpService": {
+      "$className": "HttpService",
+      "$properties": {
+        "HttpEnabled": true
+      }
+    },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$path": "src",
+
+      "Roact": {"$path": "modules/roact/src"},
+      "t": {"$path": "modules/t/lib"}
+    }
+  }
+}
