@@ -1,6 +1,0 @@
-[submodule "modules/roact"]
-	path = modules/roact
-	url = https://github.com/Roblox/roact
-[submodule "modules/t"]
-	path = modules/t
-	url = https://github.com/osyrisrblx/t
